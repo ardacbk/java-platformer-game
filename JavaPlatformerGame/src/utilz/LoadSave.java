@@ -41,6 +41,7 @@ public class LoadSave {
                     value = 0;
                 }
                 levelData[i][j] = value;
+
             }
         }
         return levelData;
